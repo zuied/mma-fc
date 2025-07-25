@@ -1,0 +1,26 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.card:hover {
+  transform: scale(1.02);
+  transition: 0.3s ease-in-out;
+}
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 1rem;
+  border-radius: 10px;
+}
+
+footer {
+  margin-top: 3rem;
+  padding: 1rem;
+  background-color: #222;
+  color: #ccc;
+  text-align: center;
+}
